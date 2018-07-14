@@ -1,5 +1,5 @@
 # DataScienceCapstone
-Final project in the Coursera Data Science course
+This is the final project in the Coursera Data Science course from Johns Hopkins University. 
 
 The aim of the Data Science Capstone project was to explore natural language processing (NLP) and create a Shiny application that predicts the next word based on a word or phrase of input from a user.
 
